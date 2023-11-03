@@ -13,3 +13,4 @@ sphinxext-opengraph>=0.7.1
 # The theme used by the documentation is stored separately, so we need
 # to install that as well.
 python-docs-theme>=2022.1
+pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
